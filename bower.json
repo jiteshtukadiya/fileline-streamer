@@ -1,0 +1,27 @@
+{
+  "name": "fileline-streamer",
+  "version": "0.0.1",
+  "main": "dist/fileLineStreamer.js",
+  "keywords": [
+    "filereader",
+    "large files"
+  ],
+  "ignore": [
+    "CHANGELOG.md",
+    "components",
+    "node_modules",
+    "test",
+    "package.json",
+    "Gruntfile.js",
+    ".bowerrc",
+    ".gitignore",
+    ".travis.yml"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiteshtukadiya/fileline-streamer.git"
+  },
+  "homepage": ""
+}
